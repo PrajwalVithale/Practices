@@ -7,4 +7,4 @@ function oddEven(n){
     }
 }
 
-oddEven(5);
+oddEven(10);
